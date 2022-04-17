@@ -35,5 +35,6 @@ For this specific analysis, we focsed on video games
 
 
 ### Summary: 
+ A positive bias that we can review for the Vine program is that 51% of the reviews were 5 Star versus the 39% reviews of non-vine 5 Star.
 
-In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
+ In order to find out more information, we could run a statistical analysis for both non-vine and vine reviews. With this information, we would be able to make hypothesis based on the reviews.
