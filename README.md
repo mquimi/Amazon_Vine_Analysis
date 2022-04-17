@@ -10,16 +10,28 @@ The reason for this analysis was to use PySpark in order to perform the ETL proe
     - run calcualtions
 For this specific analysis, we focsed on video games
 
-### Results: Using bulleted lists and images of DataFrames as support, address the following questions:
+### Results:
 
-- How many Vine reviews and non-Vine reviews were there?
+## Reviews
+- Vine reviews
+![](https://github.com/mquimi/Amazon_Vine_Analysis/blob/main/images/paid%20total%20number%20of%20reviews.png)
 
+- Non-Vine reviews
+![](https://github.com/mquimi/Amazon_Vine_Analysis/blob/main/images/unpaid%20total%20number%20of%20reviews.png)
 
-- How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
+## 5 Star
+- 5 stars Vine reviews
+![](https://github.com/mquimi/Amazon_Vine_Analysis/blob/main/images/paid%205-star%20reviews.png)
 
+- 5 stars non-Vine reviews
+![](https://github.com/mquimi/Amazon_Vine_Analysis/blob/main/images/unpaid%205-star%20reviews.png)
 
-- What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
+## Percentage
+- Percentage of Vine reviews
+![](https://github.com/mquimi/Amazon_Vine_Analysis/blob/main/images/paid%205-star%20reviews%20percentage.png)
 
+- Percentage of non-Vine 
+![](https://github.com/mquimi/Amazon_Vine_Analysis/blob/main/images/unpaid%205-star%20reviews%20percentage.png)
 
 
 ### Summary: 
